@@ -8,8 +8,8 @@
       "root": "src",
       "outDir": "dist",
       "assets": [
-        "assets",
-        "favicon.ico"
+        "../node_modules/bootstrap/dist/css/bootstrap.min.css",
+        "assets"
       ],
       "index": "index.html",
       "main": "main.ts",
